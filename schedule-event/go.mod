@@ -1,5 +1,4 @@
-module github.com/sugar-cat7/tool
-
+module github.com/sugar-cat7/schedule-event
 go 1.20
 
 require github.com/bwmarrin/discordgo v0.27.1
