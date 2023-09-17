@@ -1,4 +1,4 @@
-## Simple Text Message
+## File Message
 
 - ファイルを添付しメッセージを送信する
 

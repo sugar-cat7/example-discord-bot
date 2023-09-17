@@ -1,4 +1,4 @@
-## Simple Text Message
+## Context Message
 
 - 右クリックでのメニューを拡張する
 

@@ -5,7 +5,8 @@
 https://discord.com/developers/docs/interactions/receiving-and-responding
 
 ![Alt text](images/README/image-1.png)
-![Alt text](images/README/image.png)
+
+![Alt text](images/README/image-2.png)
 
 ### Interaction の種類:
 
@@ -26,4 +27,3 @@ https://discord.com/developers/docs/interactions/receiving-and-responding
 ### 注意点:
 
 - Interaction には応答時間の制限がある。(デフォルトでは 3 秒以内、最大で 15 分の延長が可能)
--

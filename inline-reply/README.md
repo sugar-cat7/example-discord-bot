@@ -1,4 +1,4 @@
-## Simple Text Message
+## Reply
 
 - メッセージに対してリプライを送信する
 
